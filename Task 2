@@ -1,0 +1,5 @@
+Here you have one zip file named "EncryptedFilePack".
+First, unzip the above file.
+Inside the file is one zip file named enc.zip and one brute-force Python script that is not entirely complete.
+Modify the code, then, using the code, unzip the "enc.zip" file, and then submit the code in the submit section.
+To unzip the file, use the rockyou.txt file in the brute-force Python script.
